@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Time+New+Roman&duration=4000&pause=1000&width=435&lines=%F0%9F%91%8B+Hello%2C+world!+;I'm+Tony+Lu;Welcome+to+my+GitHub+page!;%3AD)](https://git.io/typing-svg)
 
 ## Contact
 <!--
